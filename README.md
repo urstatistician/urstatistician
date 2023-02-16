@@ -10,7 +10,6 @@ I'm currently active as Bangkit Cohort 2023 in Machine Learning Path.
 <p align="left">
 <a href="https://github.com/urstatistician">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=urstatistician&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=urstatistician&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
