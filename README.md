@@ -1,4 +1,5 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pras.
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> 
+### I'm Pras.
 
 I'm currently active as Bangkit Cohort 2023 in Machine Learning Path.
 - 🌱 I’m currently learning about Statistics and Machine Learning
